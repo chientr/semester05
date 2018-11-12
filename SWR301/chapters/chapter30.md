@@ -39,10 +39,10 @@ Storing information in a multiuser database.
 * Generate tailored subsets
 
 ### Capabilities
-![](./chapter30/capabilities.png)
+![](chapter30/capabilities.png)
 
 ### Intergrate with other tools
-![](./chapter30/integrate.png)
+![](chapter30/integrate.png)
 
 ## Selecting and implementing a requirement tool
 ### Selecting a tool
