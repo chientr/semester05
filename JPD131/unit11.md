@@ -207,3 +207,23 @@
     よくカラオケを歌う？ううん、歌わない。
     昨日、テレビーをつける？ううん、つけない。
     音楽を
+
+ 
+    
+    động từ chuyển về ru
+    quá khứ động từ chuyển về thể ta.
+    phủ định động từ chuyển về thể nai
+    phủ định quá khứ động từ chuyển về
+
+    tính từ bỏ desu
+    tỉnh từ gốc na thêm da
+    じゃありません　thành じゃない
+
+    でした　→　だった
+
+    danh từ
+    です　→　だ
+    じゃありません　→　じゃない
+    でした　→　だった
+    じゃありませんでした　→　じゃなかった
+    でしたか　→　だった
